@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="AcusticDetector.Models.ViewCharting"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AcusticDetector.Models"
+             xmlns:rtchart="clr-namespace:MindFusion.RealTimeCharting.Wpf;assembly=MindFusion.RealTimeCharting.Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="616" d:DesignWidth="700">
+    <Grid>
+        <Grid Height="616" VerticalAlignment="Center" HorizontalAlignment= "Center"  RenderTransformOrigin="0.584,0.675"   Margin="10,0,0,0" Width="700">
+            <Grid.OpacityMask>
+                <VisualBrush Visual="{Binding ElementName=BorderG2}"/>
+            </Grid.OpacityMask>
+            <Border x:Name="BorderG2" CornerRadius="0" Background="#FF636161" Margin="0,0,0,0" BorderThickness="1" BorderBrush="#FFFFFDFD" >
+                <rtchart:RealTimeChart
+                x:Name="chart1"
+                TitleText="Спектр сигнала (КН)" TitleFontFamily="Verdana" TitleFontSize="16" TitleVerticalAlignment="Top"
+                LegendOrientation="Horizontal" 
+                VerticalContentAlignment="Stretch"        
+                FastScrollMode="True" 
+                TooltipVisibility="Visible" 
+                MouseWheel="chart1_MouseWheel"
+                ForceCursor="True"   
+                MouseMove="chart1_MouseMove"                 
+                FallbackTooltipBackground="#FFD8CECE"  MouseDown="chart1_MouseDown" MajorGridStroke="{x:Null}" MinorGridStroke="{x:Null}" Foreground="White" Background="#FF636161" MinorGridSizeY="9" IsManipulationEnabled="True" CornerRadius="0" Cursor="Cross" FontSize="14" ShowCrosshairs="True" HorizontalContentAlignment="Stretch" BorderThickness="0" Padding="0" Margin="1,0,0.016,0" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" UseLayoutRounding="False" SnapsToDevicePixels="True">
+                    <rtchart:RealTimeChart.XAxis>
+                        <rtchart:Axis Background="White" DrawLabels="True" Interval="10" Length="50" LabelOffset="3" LabelHorizontalAlignment="Left" LabelFormat="F2" LabelBrush="White" LabelOrigin="NaN" LabelFontSize="12" LabelFontFamily="Times New Roman" LabelFormatProvider="{x:Null}" Origin="0" PinLabels="True" Stroke="#FFFFF7F7" TitleFontSize="12" TitleRotationAngle="0" TitleOffset="5" TitleFontFamily="Times New Roman" TitleBrush="White" TickLength="0" Title="" Visibility="Hidden" VerticalAlignment="Bottom"/>
+                    </rtchart:RealTimeChart.XAxis>
+                </rtchart:RealTimeChart>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

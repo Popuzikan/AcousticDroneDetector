@@ -1,0 +1,130 @@
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\AcusticDetector.exe.config
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\AcusticDetector.exe
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\AcusticDetector.pdb
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MaterialDesignColors.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector_MarkupCompile.cache
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector_MarkupCompile.lref
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\App.baml
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector.g.resources
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector.Properties.Resources.resources
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector.csproj.CopyComplete
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector.exe
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector.pdb
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MindFusion.Charting.Wpf.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MindFusion.Gauges.Wpf.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MindFusion.Licensing.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MindFusion.RealTimeCharting.Wpf.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MindFusion.Charting.Wpf.xml
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MindFusion.Gauges.Wpf.xml
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\MindFusion.RealTimeCharting.Wpf.xml
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Accord.dll.config
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Accord.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Accord.Math.Core.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Accord.Math.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\NAudio.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Accord.xml
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Accord.Math.xml
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Accord.Math.Core.xml
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\NAudio.xml
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\AcusticDetector_Content.g.cs
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\FFTUserControl.g.cs
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Dragablz.dll
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Dragablz.pdb
+C:\Users\Alex\source\repos\AcusticDetector\bin\Debug\Dragablz.xml
+C:\Users\Alex\source\repos\AcusticDetector\obj\Debug\FFTUserControl.baml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Accord.dll.config
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\AcusticDetector.exe.config
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\AcusticDetector.exe
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\AcusticDetector.pdb
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Accord.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Accord.Math.Core.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Accord.Math.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Dragablz.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MaterialDesignColors.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MindFusion.Charting.Wpf.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MindFusion.Gauges.Wpf.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MindFusion.Licensing.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\NAudio.dll
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Accord.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Accord.Math.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Accord.Math.Core.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Dragablz.pdb
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\Dragablz.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MindFusion.Charting.Wpf.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MindFusion.Gauges.Wpf.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\MindFusion.RealTimeCharting.Wpf.xml
+C:\Users\Alex\Desktop\AcusticDetector\bin\Debug\NAudio.xml
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\FFTUserControl.g.cs
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector_Content.g.cs
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector_MarkupCompile.cache
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector_MarkupCompile.lref
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\App.baml
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\FFTUserControl.baml
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.g.resources
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.Properties.Resources.resources
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.csproj.CopyComplete
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.exe
+C:\Users\Alex\Desktop\AcusticDetector\obj\Debug\AcusticDetector.pdb
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Accord.dll.config
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Accord.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Accord.Math.Core.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Accord.Math.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Dragablz.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MaterialDesignColors.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MindFusion.Charting.Wpf.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MindFusion.Gauges.Wpf.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MindFusion.Licensing.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\NAudio.dll
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Accord.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Accord.Math.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Accord.Math.Core.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Dragablz.pdb
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Dragablz.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MaterialDesignColors.pdb
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.pdb
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MaterialDesignThemes.Wpf.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MindFusion.Charting.Wpf.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\MindFusion.Gauges.Wpf.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\NAudio.xml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\AcusticDetector.csprojAssemblyReference.cache
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\MainWindow.g.cs
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\App.g.cs
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\App.baml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\MainWindow.baml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\AcusticDetector.Properties.Resources.resources
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\AcusticDetector.csproj.GenerateResource.cache
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\AcusticDetector.csproj.CoreCompileInputs.cache
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\AcusticDetector.csproj.CopyComplete
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Pages\ViewCharting.g.cs
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Pages\ViewRadar.g.cs
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Pages\ViewCharting.baml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Pages\ViewRadar.baml
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Drone acoustic Detector (DaD).exe.config
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Drone acoustic Detector (DaD).exe
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\bin\Debug\Drone acoustic Detector (DaD).pdb
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Drone acoustic Detector (DaD)_Content.g.cs
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Drone acoustic Detector (DaD)_MarkupCompile.cache
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Drone acoustic Detector (DaD)_MarkupCompile.lref
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Drone acoustic Detector (DaD).g.resources
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Drone acoustic Detector (DaD).exe
+H:\Мой рабочий материал\МАТЕРИАЛЫ НА ОТПУСК ВАЖНЫЕ\Проект Обнаружителя WPF и WF\AcusticDetector\obj\Debug\Drone acoustic Detector (DaD).pdb

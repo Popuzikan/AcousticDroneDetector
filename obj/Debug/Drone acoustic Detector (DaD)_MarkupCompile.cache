@@ -1,0 +1,20 @@
+﻿Drone acoustic Detector (DaD)
+
+
+winexe
+C#
+.cs
+H:\AcusticDetector\obj\Debug\
+AcusticDetector
+none
+false
+DEBUG;TRACE
+H:\AcusticDetector\App.xaml
+31473052217
+1-1731469416
+17-400733912
+2679293012
+MainWindow.xaml;Pages\ViewCharting.xaml;Pages\ViewRadar.xaml;
+
+True
+
