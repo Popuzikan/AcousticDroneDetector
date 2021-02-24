@@ -5,7 +5,7 @@ The idea of ​​developing this project is based on countering modern drones. 
 
 ## Getting Started
 
-To start the project it is necessary to open the FileMemoryCountManager.sln file and to compile it in the development environment.
+To start the project it is necessary to open the DaD.sln file and to compile it in the development environment.
 
 ### Prerequisites
 
